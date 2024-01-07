@@ -1,0 +1,268 @@
+#first{
+    background-image: url(umwenda.jpg);
+    background-size: cover;
+    padding-bottom: 120px;
+
+   
+}
+.GF{
+    background-color:rgb(79, 77, 77); 
+}
+.navbar-nav{
+    background-color: transparent;
+    
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.navbar-brand{
+    color:white;
+    font-weight: bold;
+}
+.navbar-brand:hover{
+    text-decoration: underline;
+    color: rgb(216, 226, 226);
+    
+}
+
+.nav-link {
+    color:rgb(239, 241, 243)
+}
+.nav-link:hover{
+    text-decoration: underline;
+    color: rgb(215, 223, 223);
+}
+
+
+.btn{
+    border-radius: 40px ; 
+    border-color: white;
+    
+    background-color: transparent;
+    color: white;
+   
+}
+
+.bi{
+    color: white;
+    font-weight: bold;
+    width: 60px;
+
+}
+.hello{
+    padding-left: 30px;
+    
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;  
+    
+    font-weight: bold;
+}
+.hey{
+    color: rgb(250, 203, 245);
+}
+.btn-outline {
+    border-color: rgb(236, 108, 129);
+    border-radius: 30px;
+    
+
+}
+.hi{
+    text-decoration: none;
+}
+
+.abc{
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    background-color:white;
+    width: 190px;
+    flex-direction: row;
+    border-radius: 20px;
+    
+    
+}
+.part1{
+    width: 30%;
+    
+}
+.subnav{
+   padding-left: 10rem; 
+}
+
+.ifoto1{
+ width: 11rem;
+ height: 25rem;
+}
+.ifoto2{
+    width: 8rem;
+
+}
+.ifoto3{
+    width: 8rem;
+}
+.ifoto4{
+    width: 11rem;
+    height: 24rem;
+}
+.parent{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.FA{
+    font-size: 0.8rem;
+}
+.A{
+    width: 100%;
+    background-color:rgb(184, 174, 176);
+    margin-top:4rem ;
+    height: 25rem;
+
+    
+    
+}
+.BA{
+    width: 260%;
+    margin-bottom: 3rem;
+    margin-top:3rem ;
+    background-color:rgb(184, 174, 176);
+    border: none;
+    margin-left: 1.5rem;
+    
+}
+.BB{
+    width: 260%;
+    background-color: rgb(184, 174, 176);
+    border: none;
+    margin-bottom: 3rem;
+    margin-left: 1.5rem;
+}
+.C{
+    width:100%;
+    background-color: rgb(184, 174, 176);
+    border:none;
+    margin-top:4rem ;
+    height: 25rem;
+  
+   
+}
+.content{
+    background-color: rgb(223, 221, 219);
+}
+.img1{
+    width: 10
+    0%;
+}
+.small-image {
+    width: 50%;
+    height: auto;
+}
+.CD{
+    width:8rem ;
+    height: 12rem;
+}
+.EF{
+    width:17rem ;
+    height: 18rem;
+}
+.GH{
+    width:19rem ;
+    height: 13rem;
+}
+.IJ{
+    width:19rem ;
+    height: 13rem;  
+}
+.JW{
+    width:15rem ;
+    height: 8rem;  
+}
+.pic1{
+    width: 6rem;
+    border-radius: 100%;
+    
+}
+.pic2{
+    width: 4rem;
+    border-radius: 100%;
+    margin-top: 3rem;
+    margin-left: 7rem;
+}
+.pic3{
+    width: 4rem;
+    border-radius: 100%;
+    margin-top: 3rem;
+    margin-left: 4rem;
+    
+}
+.pic4{
+    width: 6rem;
+    border-radius: 100%;
+    margin-left: 2%;
+    margin-top: 3rem;
+
+}
+.pic5{
+    width: 8rem;
+    border-radius: 5rem; 
+    margin-left: 2rem;
+
+}
+.pic6{
+    width: 6rem;
+    border-radius: 100%;
+    margin-left: 30%;
+    margin-top: 3rem;
+
+}
+.pic7{
+    width: 6rem;
+    border-radius: 100%;
+    margin-left: 2%;
+    margin-top: 3rem;
+
+}
+.pic8{
+    width: 6rem;
+    border-radius: 100%;
+    margin-left: 50%;
+    margin-top: 3rem;
+
+}
+a{
+    text-decoration: none;
+}
+.zk{
+    margin-top: 15%;
+}
+.K{
+    background-color:rgb(243, 229, 229);
+}
+.Trend{
+    height: 3rem;
+    width: 3rem;
+    background-color: rgb(243, 91, 144);
+    border-radius: 50%;
+    padding: 12px 5px;
+    color: white;
+    position: absolute;
+    top: 2%;
+    left: 82%;
+    transform: (-50%);
+}
+
+.saw{
+    padding-left: 8rem;
+}
+.get{
+    padding-top: 1rem;
+}
+.line{
+    width: 4rem;
+    padding-left: 7rem;
+    margin-left: 6rem;
+}
+.TP{
+    border-width: 0.3rem;
+}
